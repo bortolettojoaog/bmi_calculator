@@ -48,6 +48,9 @@ $ git clone <https://github.com/bortolettojoaog/bmi_calculator.git>
 # Access the project folder through terminal/cmd
 $ cd bmi_calculator
 
+# Open the project in visual studio code
+$ code .
+
 # Install node
 $ <https://nodejs.org/en/>
 
